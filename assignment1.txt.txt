@@ -1,1 +1,20 @@
-data1
+1. Connected appliances.
+2. Smart home security systems.
+3. Autonomous farming equipment.
+4. Wearable health monitors.
+5. Smart factory equipment.
+6. Wireless inventory trackers.
+7. Ultra-high speed wireless internet.
+8. Biometric cybersecurity scanners.
+9. AI HOME SOLUTIONS
+10.Elderly Care Monitoring
+11.Bike Helmet Crash Sensors
+12.RFID Smart Guns
+13.Smart Tennis Rackets
+14.Wi-Fi Type Writers
+15.Smart Smoke Detectors
+16.Air Quality Sensors
+17.Smart Fire Extinguishers
+18.Flood Alert Sensors
+19.Home Energy Monitoring and Control
+20.Smart Door Locks
